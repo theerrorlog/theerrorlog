@@ -7,4 +7,4 @@ Hi, I’m Joshua — a Systems Admin, Cybersecurity Analyst, and Web Developer b
 - A toolbox of indie web apps (coming soon!)
 - Automated security reporting tools
 
-📫 Reach me: contact@theerrorlog.io
+📫 Reach me: [contact@theerrorlog.io](mailto:contact@theerrorlog.io)
